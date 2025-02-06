@@ -1,0 +1,2 @@
+There was compared two types of calculation the integral: Monte-Carlo method and builded function quad. In the result, experiment with small amount of random dots shows that value is the farest from the value calculated by function quad with very small error. While experiment with large amount of random dots shows that value is near the "real" value.
+So, it can be concluded that the more random dots are generated for Monte-Carlo method, the more accurate value returns, but the result can vary time to time because of randomness.
